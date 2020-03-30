@@ -1,0 +1,6 @@
+use_frameworks!
+target 'TestLabel_Tests' do
+  pod 'TestLabel', :path => '../'
+  
+  
+end
