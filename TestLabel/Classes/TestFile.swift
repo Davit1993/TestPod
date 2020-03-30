@@ -14,7 +14,7 @@ public class TestFile {
     public var testLabel = ""
     public var nGram = [Int: [String: String]]()
     public init(name: String) {
-        //1111 doiasjoidjasiojdio
+        //new tag
         self.name = name
     }
 }
